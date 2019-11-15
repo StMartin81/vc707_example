@@ -1,0 +1,8 @@
+/sdk/.metadata
+/sdk/webtalk
+/sdk/standalone_bsp_0/microblaze_processor_system_microblaze_processor
+/mmwc_2_0/
+/.Xil/
+*.mif
+*.jou
+*.log
